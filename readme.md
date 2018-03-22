@@ -10,7 +10,7 @@
   - Mohammed Topiwalla
   - Sanchita Kumari
   - Patricia Londono
-  - Vallerio Trotta
+  - Vallerio Trott
   - Millicent Otchere
   - Igor Pedevani
 
